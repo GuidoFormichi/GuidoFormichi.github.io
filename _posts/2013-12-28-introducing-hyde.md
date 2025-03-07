@@ -9,22 +9,18 @@ Hi! I'm a PhD student in Linguistics at [IUSS](https://www.iusspavia.it/it/rubri
 
 My reasearch interests concern:
 
-* Theoretical Syntax issues (in particular dislocations and linear order)
+* Theoretical Syntax issues (in particular dislocations and linearization)
 * The Syntax - Prosody interface
 * Prososdic analysis (segmentation and intonation)
 * Information Structure cooncepts
 
-### My bio
+### My academic bio
 
-In addition to the features of Poole, Hyde adds the following:
-
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
+I graduated from the Modern Literature Bachelor Course at the Ca' Foscari University of Venice in 2020 with a thesis in narratology entitled "*Il ruolo del lettore nelle teorie letterarie e nella letteratura contemporanea: Iser, Eco e Calvino*". I then attended the Master's Degree in Linguistics at the University of Padua, specializing in theoretical linguistics and syntax. I graduated in 2023 with a thesis on right dislocation in Italian, "*Clitic Right Dislocation in Italian: A syntactic and prosodic study*", under the supervision of Emanuela Sanfelici and Giuliano Bocci. This study consists of two parts: a syntactic one, with a detailed comparison of the main existing models of right dislocation, and an experimental part with a prosodic analysis carried out on Italian speakers.
 
 ### Contacts
-* *Academic email* guido.formichi@iusspavia.it
-* *Academic profile* [Me at IUSS](https://www.iusspavia.it/it/rubrica/guido-formichi)
+
+* **Academic email** guido.formichi@iusspavia.it
+* **Academic profile** [This is me at IUSS](https://www.iusspavia.it/it/rubrica/guido-formichi)
+
 Thanks!
