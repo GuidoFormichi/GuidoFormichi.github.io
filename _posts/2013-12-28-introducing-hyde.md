@@ -16,7 +16,7 @@ My reasearch interests concern:
 
 ### My academic bio
 
-I graduated from the Modern Literature Bachelor Course at the Ca' Foscari University of Venice in 2020 with a thesis in narratology entitled "*Il ruolo del lettore nelle teorie letterarie e nella letteratura contemporanea: Iser, Eco e Calvino*". I then attended the Master's Degree in Linguistics at the University of Padua, specializing in theoretical linguistics and syntax. I graduated in 2023 with a thesis on right dislocation in Italian, "*Clitic Right Dislocation in Italian: A syntactic and prosodic study*", under the supervision of Emanuela Sanfelici and Giuliano Bocci. This study consists of two parts: a syntactic one, with a detailed comparison of the main existing models of right dislocation, and an experimental part with a prosodic analysis carried out on Italian speakers.
+I graduated from the Modern Literature Bachelor Course at the Ca' Foscari University of Venice in 2020 with a thesis in narratology entitled "*Il ruolo del lettore nelle teorie letterarie e nella letteratura contemporanea: Iser, Eco e Calvino*". I then attended the Master's Degree in Linguistics at the University of Padua, specializing in theoretical linguistics and syntax. I graduated in 2023 with a thesis entitled "*Clitic Right Dislocation in Italian: A syntactic and prosodic study*", under the supervision of Emanuela Sanfelici and Giuliano Bocci. This study consists of two parts: a syntactic one, with a detailed comparison of the main existing models of right dislocation, and an experimental part with a prosodic analysis carried out on Italian speakers.
 
 ### Contacts
 
