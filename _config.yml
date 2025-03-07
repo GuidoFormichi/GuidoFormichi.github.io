@@ -8,7 +8,7 @@ permalink: pretty
 # Setup
 title: Guido Formichi
 tagline: 'Linguist'
-description: 'Made by <a href="https://www.iusspavia.it/it/rubrica/guido-formichi"_blank">IUSS</a>.'
+description: 'I'm a PhD student of Theoretical and Experimental Linguistics at <a href="https://www.iusspavia.it/it/rubrica/guido-formichi"_blank">IUSS</a> in Pavia, Italy.'
 url: https://blablacarro.github.io
 baseurl: ""
 
@@ -19,7 +19,7 @@ author:
 paginate: 5
 
 # Custom vars
-version: 2.1.0
+# version: 2.1.0
 
-github:
-  repo: https://github.com/poole/hyde
+#github:
+#  repo: https://github.com/poole/hyde
