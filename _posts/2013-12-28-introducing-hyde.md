@@ -3,20 +3,20 @@ layout: post
 title: About me
 ---
 
-Hi! I'm a PhD student in Linguistics at [IUSS](https://www.iusspavia.it/it/rubrica/guido-formichi) Pavia, working on the Syntax and the Prosody of a specific kind of sentence structure (known as `Right Dislocations') in which some material appears at the right edge of the clause, under the supervision of Andrea Moro.
+Hi! I'm a PhD student in Linguistics at [IUSS](https://www.iusspavia.it/it/rubrica/guido-formichi) Pavia, working on the Syntax and the Prosody of a specific kind of sentence structure (known as `Right Dislocation') in which some material appears at the right edge of the clause, under the supervision of Andrea Moro.
 
-### My interests
+### My research interests
 
-My reasearch interests concern the following:
+My reasearch interests concern:
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
+* Theoretical Syntax issues
 * Mobile friendly design and development
 * Easily scalable text and component sizing with `rem` units in the CSS
 * Support for a wide gamut of HTML elements
 * Related posts (time-based, because Jekyll) below each post
 * Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
 
-### Hyde features
+### My bio
 
 In addition to the features of Poole, Hyde adds the following:
 
@@ -26,12 +26,7 @@ In addition to the features of Poole, Hyde adds the following:
 
 [Head to the readme](https://github.com/poole/hyde#readme) to learn more.
 
-### Browser support
-
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
-
+### Contacts
+* *Academic email* guido.formichi@iusspavia.it
+* *Academic profile* [Me at IUSS](https://www.iusspavia.it/it/rubrica/guido-formichi)
 Thanks!
