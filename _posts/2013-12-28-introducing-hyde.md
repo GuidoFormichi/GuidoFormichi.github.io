@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Introducing Hyde
+title: About me
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Hi! I'm a PhD student in Linguistics at [IUSS](https://www.iusspavia.it/it/rubrica/guido-formichi) Pavia, working on the Syntax and the Prosody of a specific kind of sentence structure (known as `Right Dislocations') in which some material appears at the right edge of the clause, under the supervision of Andrea Moro.
 
-### Built on Poole
+### My interests
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
+My reasearch interests concern the following:
 
 * Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
 * Mobile friendly design and development
