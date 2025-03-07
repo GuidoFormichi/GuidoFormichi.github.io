@@ -9,12 +9,10 @@ Hi! I'm a PhD student in Linguistics at [IUSS](https://www.iusspavia.it/it/rubri
 
 My reasearch interests concern:
 
-* Theoretical Syntax issues
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+* Theoretical Syntax issues (in particular dislocations and linear order)
+* The Syntax - Prosody interface
+* Prososdic analysis (segmentation and intonation)
+* Information Structure cooncepts
 
 ### My bio
 
