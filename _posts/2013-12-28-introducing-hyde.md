@@ -20,7 +20,6 @@ I graduated from the Modern Literature Bachelor Course at the Ca' Foscari Univer
 
 ### Contacts
 
-* **Academic email** guido.formichi@iusspavia.it
-* **Academic profile** [This is me at IUSS](https://www.iusspavia.it/it/rubrica/guido-formichi)
+Feel free to contact me directly via email at guido.formichi@iusspavia.it
 
 Thanks!
